@@ -6,8 +6,8 @@
 
 Сохраненные учетные данные для MegaHack:
 
-- Email: uygteamgd@gmail.com
-- Лицензия: GGWP-AVERNYS_0-100-GO
+- Логин: uygteamgd@gmail.com
+- Пароль: GGWP-AVERNYS_0-100-GO
 
 ## Установка и использование
 
