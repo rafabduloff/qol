@@ -1,0 +1,30 @@
+## Бесплатный доступ к Кинопоиск, IMDb и другим сервисам кино
+
+### Установка Tape Operator
+
+1. Установите расширение Tampermonkey
+    - Посетите [официальный сайт](https://www.tampermonkey.net/)
+2. Установите скрипт Tape Operator:
+    - Перейдите по [ссылке]([https://github.com/Kirlovon/Tape-Operator/raw/main/userscript/tape-operator.user.js](https://github.com/Kirlovon/Tape-Operator/raw/main/userscript/tape-operator.user.js))
+    - Подтвердите установку в Tampermonkey
+
+### Возможности
+
+- Обход платных ограничений на Кинопоиске
+- Расширенные функции для IMDb
+- Улучшенный интерфейс на киносайтах
+
+## Важное примечание
+
+Для корректной работы скриптов может потребоваться включение режима разработчика в браузере:
+
+1. Инструкция по включению режима разработчика доступна на [сайте Tampermonkey](https://www.tampermonkey.net/faq.php?locale=ru#Q209)
+2. В большинстве браузеров необходимо перейти в настройки расширений и включить соответствующую опцию
+
+## Ключевые слова
+
+- Tampermonkey
+- Userscript
+- Кинопоиск
+- IMDb
+- Бесплатный доступ
