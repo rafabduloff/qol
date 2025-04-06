@@ -5,7 +5,7 @@
 1. Установите расширение Tampermonkey
     - Посетите [официальный сайт](https://www.tampermonkey.net/)
 2. Установите скрипт Tape Operator:
-    - Перейдите по [ссылке]([https://github.com/Kirlovon/Tape-Operator/raw/main/userscript/tape-operator.user.js](https://github.com/Kirlovon/Tape-Operator/raw/main/userscript/tape-operator.user.js))
+    - Перейдите по [ссылке](https://github.com/Kirlovon/Tape-Operator/raw/main/userscript/tape-operator.user.js)
     - Подтвердите установку в Tampermonkey
 
 ### Возможности
