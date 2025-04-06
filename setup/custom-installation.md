@@ -30,4 +30,4 @@
 
 #### Моя сборочка:
 
-Скачать мой autounattend.xml
+[Скачать мой autounattend.xml](blob:https://github.com/abd17dbb-77b0-4ea4-a40e-d600e4313b9d)
