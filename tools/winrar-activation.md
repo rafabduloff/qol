@@ -5,7 +5,7 @@
 ## Шаги активации
 
 1. Предварительно установите WinRAR с официального сайта
-2. [Скачайте файл `rarreg.key`](blob:https://github.com/fadabede-b3df-4995-b577-aa9da43b4566) 
+2. [Скачайте файл rarreg.key](blob:https://github.com/fadabede-b3df-4995-b577-aa9da43b4566) 
 3. Скопируйте файл `rarreg.key` в папку с установленным WinRAR (обычно `C:\Program Files\WinRAR\`)
 4. Перезапустите WinRAR, если он был открыт
 
