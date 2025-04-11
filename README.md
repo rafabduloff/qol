@@ -17,7 +17,8 @@
 
 - [Системные утилиты](https://github.com/rafabduloff/qol/blob/main/tools/system-utilities.md) — Различные утилиты для управления и оптимизации Windows  
 - [Активация WinRAR](https://github.com/rafabduloff/qol/blob/main/tools/winrar-activation.md) — Инструкция по активации WinRAR
-- [Бесплатные JetBrains продукты](https://github.com/rafabduloff/qol/blob/main/tools/jetbra.md) — Инструкция по бесплатному использованию любых продуктов JetBrains 
+- [Бесплатные JetBrains продукты](https://github.com/rafabduloff/qol/blob/main/tools/jetbra.md) — Инструкция по бесплатному использованию любых продуктов JetBrains
+- [SimpleUnlocker](https://github.com/rafabduloff/qol/blob/main/tools/simpleunlocker.md) — Мультитул для разблокировки Windows от вирусов
 
 ### Игры
 
