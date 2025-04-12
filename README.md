@@ -6,23 +6,23 @@
 
 ### Активация
 
-- [Методы активации Windows и Office](https://github.com/rafabduloff/qol/blob/main/activation/windows-office-activation.md) — Скрипты и инструменты для активации Windows и Office
+- [Активация Windows и Office](https://github.com/rafabduloff/qol/blob/main/activation/windows-office-activation.md)
 
 ### Настройка и установка
 
-- [Настройка после установки](https://github.com/rafabduloff/qol/blob/main/setup/post-installation.md) — Необходимые инструменты и шаги после установки Windows  
-- [Пользовательская установка Windows](https://github.com/rafabduloff/qol/blob/main/setup/custom-installation.md) — Инструменты для создания пользовательских установок Windows
+- [Установка нужнеых программ в одном пакете](https://github.com/rafabduloff/qol/blob/main/setup/post-installation.md)
+- [Собрать свою собрку винды](https://github.com/rafabduloff/qol/blob/main/setup/custom-installation.md)
 
 ### Инструменты
 
-- [Системные утилиты](https://github.com/rafabduloff/qol/blob/main/tools/system-utilities.md) — Различные утилиты для управления и оптимизации Windows  
-- [Активация WinRAR](https://github.com/rafabduloff/qol/blob/main/tools/winrar-activation.md) — Инструкция по активации WinRAR
-- [Бесплатные JetBrains продукты](https://github.com/rafabduloff/qol/blob/main/tools/jetbra.md) — Инструкция по бесплатному использованию любых продуктов JetBrains
-- [SimpleUnlocker](https://github.com/rafabduloff/qol/blob/main/tools/simpleunlocker.md) — Мультитул для разблокировки Windows от вирусов
+- [Удаление Defender и UAC](https://github.com/rafabduloff/qol/blob/main/tools/system-utilities.md) 
+- [Активация WinRAR](https://github.com/rafabduloff/qol/blob/main/tools/winrar-activation.md)
+- [Бесплатные JetBrains продукты](https://github.com/rafabduloff/qol/blob/main/tools/jetbra.md)
+- [SimpleUnlocker](https://github.com/rafabduloff/qol/blob/main/tools/simpleunlocker.md)
 
 ### Игры
 
-- [MegaHack для Geometry Dash](https://github.com/rafabduloff/qol/blob/main/games/megahack.md) — Учетные данные и информация о MegaHack
+- [Бесплатный MegaHack для Geometry Dash](https://github.com/rafabduloff/qol/blob/main/games/megahack.md)
 
 ### Расширения браузера
 
