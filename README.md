@@ -24,6 +24,10 @@
 
 - [Бесплатный MegaHack для Geometry Dash](https://github.com/rafabduloff/qol/blob/main/games/megahack.md)
 
+### Кряки
+
+- [Улучшенная Desktop Яндекс Музыка](https://github.com/rafabduloff/qol/blob/main/cracks/yandex-music-mod.md)
+
 ### Расширения браузера
 
 - [Бесплатный Кинопоиск, IMDB и другие киносервисы](https://github.com/rafabduloff/qol/blob/main/extensions/tape-operator.md)  
