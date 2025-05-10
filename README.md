@@ -33,6 +33,10 @@
 - [Бесплатный Кинопоиск, IMDB и другие киносервисы](https://github.com/rafabduloff/qol/blob/main/extensions/tape-operator.md)  
 - [Яндекс Переводчик видео во всех браузерах](https://github.com/rafabduloff/qol/blob/main/extensions/yandex-translate.md)
 
+## Личная заметка
+
+- [После установки винды скачать:](https://github.com/rafabduloff/qol/blob/main/tools/notes.md)  
+
 ## Отказ от ответственности
 
 Я не являюсь создателем или владельцем сторонних репоизториев или файлов представленных в данном репозитории.
